@@ -1,5 +1,5 @@
- IP: 89.169.173.107;
- name_taski: https://taski-ever.zapto.org/;
- name_kittygram: https://kittygram.3utilities.com/;
- login: admin;
- password: 1234;
+IP: 89.169.173.107;
+name_taski: https://taski-ever.zapto.org/;
+name_kittygram: https://kittygram.3utilities.com/;
+login: admin;
+password: 1234;
