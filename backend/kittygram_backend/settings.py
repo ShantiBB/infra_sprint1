@@ -1,11 +1,9 @@
 import os
 
 from pathlib import Path
-from dotenv import load_dotenv
+from decouple import config
 
-load_dotenv()
-
-secret_key = os.getenv('SECRET_KEY')
+secret_key = config('SECRET_KEY')
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
